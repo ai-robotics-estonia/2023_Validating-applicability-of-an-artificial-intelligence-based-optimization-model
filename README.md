@@ -2,7 +2,7 @@
 
 *This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
 
-# Tootmisprotsesside tehisintellektil baseeruva optimeerimismudeli rakendatavuse uuring Scandinor OÜ uue kavandatava tootmisüksuse baasil 
+# Validating applicability of an artificial intelligence based optimisation model for production processes on Scandinor OÜ new planned production unit 
 
 ## Summary
 | Company Name | [Scandinor OÜ ](https://scandinor.ee/)                                            |
@@ -15,7 +15,7 @@
 
 # Description
 ## Objectives of the Demonstration Project
-The task of the demo project is to develop and test production process optimization strategies that increase the quality of our products and customer satisfaction. To do this, we use various KPI indicators in the simulation, which measure the throughput of our production and the possibilities for its improvement. 
+The task of the demo project was to develop and test production process optimization strategies that increase the quality of Scandinor products and customer satisfaction. To do this, various KPI indicators in the simulation were used, measuring the progress throughput the production and possibilities for its improvement. 
 
  
 
