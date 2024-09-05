@@ -1,6 +1,6 @@
 
 
-*This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
+
 
 # Validating applicability of an artificial intelligence based optimisation model for production processes on Scandinor OÜ new planned production unit 
 
