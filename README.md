@@ -15,7 +15,7 @@
 
 # Description
 ## Objectives of the Demonstration Project
-The task of the demo project was to develop and test production process optimization strategies that increase the quality of Scandinor products and customer satisfaction. To do this, various KPI indicators in the simulation were used, measuring the progress throughput the production and possibilities for its improvement. 
+The task of the demo project was to validate production process optimization strategies that increase the quality of Scandinor products and customer satisfaction. To do this, various KPI indicators in the simulation were used, measuring the progress throughput the production and possibilities for its improvement. 
 
  
 
@@ -30,7 +30,7 @@ The challenge was to enhance the production throughput of Scandinor's new manufa
 
 The challenge was critical as it directly impacted the efficiency, cost, and quality of production processes. Improving these factors was essential for maintaining competitiveness and meeting increasing demand. 
 
-The investment aimed to develop and implement AI-based optimization models to streamline production processes and significantly improve throughput, cost, and quality. 
+The investment aimed to validate and implement AI-based optimization models to streamline production processes and significantly improve throughput, cost, and quality. 
 ### Data Sources
 - Production data from the DIMUSA MES system (Solution developed by Taltech)) 
 - Historical production records (Siemens Plant Simulation- Scandinor Virtual Factory) 
@@ -128,7 +128,7 @@ Integrating AI solutions with existing Manufacturing Execution Systems (MES) lik
 
 Scalability and Flexibility of AI Models: 
 
-The AI models developed should be scalable and flexible enough to adapt to different production scenarios and expand to other manufacturing units. This scalability ensures that the benefits of AI optimization can be realized across various production lines and units, maximizing the return on investment. 
+The AI models validated should be scalable and flexible enough to adapt to different production scenarios and expand to other manufacturing units. This scalability ensures that the benefits of AI optimization can be realized across various production lines and units, maximizing the return on investment. 
 
  
 
